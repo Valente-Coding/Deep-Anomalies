@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9670e169abf66674f9089b2606fe7e0b, type: 3}
+  m_Name: RoundSO_1
+  m_EditorClassIdentifier: 
+  Name: Round1
+  Waves:
+  - Name: Wave1
+    DelayInSeconds: 3
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: 0db07683c988ce34da33647b99914193, type: 2}
+    - {fileID: 11400000, guid: e72b137823b9a484b9d290bbb79282ef, type: 2}
+    - {fileID: 11400000, guid: cfc9358cd1359a74a81b5b3380520870, type: 2}
+  - Name: Wave2
+    DelayInSeconds: 3
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: 0db07683c988ce34da33647b99914193, type: 2}
+    - {fileID: 11400000, guid: f1e2a0766e6b00741a5ff1aafdee417a, type: 2}
+    - {fileID: 11400000, guid: 5fdbb9840e1ca4743b0ce3e956d0b7f1, type: 2}
+    - {fileID: 11400000, guid: 732e3c51732448c4098d3ee4571c6851, type: 2}
+  - Name: Wave3
+    DelayInSeconds: 4
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: cfc9358cd1359a74a81b5b3380520870, type: 2}
+    - {fileID: 11400000, guid: 0db07683c988ce34da33647b99914193, type: 2}
+    - {fileID: 11400000, guid: 732e3c51732448c4098d3ee4571c6851, type: 2}
+    - {fileID: 11400000, guid: ff26bf360f8438d409f888a4c7e8a78a, type: 2}
+    - {fileID: 11400000, guid: e72b137823b9a484b9d290bbb79282ef, type: 2}
+  - Name: Wave4
+    DelayInSeconds: 2
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: ca43e53286dff6249b9f4f9dc339ba33, type: 2}
+    - {fileID: 11400000, guid: cfc9358cd1359a74a81b5b3380520870, type: 2}
+    - {fileID: 11400000, guid: 0748be089b2dbe841b872a67560f4665, type: 2}
+    - {fileID: 11400000, guid: e72b137823b9a484b9d290bbb79282ef, type: 2}
+  - Name: Wave5
+    DelayInSeconds: 3
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: abf9277b9b6db0e4f909f975878d2741, type: 2}
+    - {fileID: 11400000, guid: e72b137823b9a484b9d290bbb79282ef, type: 2}
+    - {fileID: 11400000, guid: cfc9358cd1359a74a81b5b3380520870, type: 2}
+    - {fileID: 11400000, guid: ca43e53286dff6249b9f4f9dc339ba33, type: 2}
+    - {fileID: 11400000, guid: 5fdbb9840e1ca4743b0ce3e956d0b7f1, type: 2}
+  - Name: Wave6
+    DelayInSeconds: 3
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: f1e2a0766e6b00741a5ff1aafdee417a, type: 2}
+    - {fileID: 11400000, guid: e72b137823b9a484b9d290bbb79282ef, type: 2}
+    - {fileID: 11400000, guid: ca43e53286dff6249b9f4f9dc339ba33, type: 2}
+    - {fileID: 11400000, guid: 732e3c51732448c4098d3ee4571c6851, type: 2}
+    - {fileID: 11400000, guid: cfc9358cd1359a74a81b5b3380520870, type: 2}
+    - {fileID: 11400000, guid: 0748be089b2dbe841b872a67560f4665, type: 2}
+  - Name: Wave7
+    DelayInSeconds: 2
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: abf9277b9b6db0e4f909f975878d2741, type: 2}
+    - {fileID: 11400000, guid: ca43e53286dff6249b9f4f9dc339ba33, type: 2}
+    - {fileID: 11400000, guid: 5fdbb9840e1ca4743b0ce3e956d0b7f1, type: 2}
+    - {fileID: 11400000, guid: e72b137823b9a484b9d290bbb79282ef, type: 2}
+    - {fileID: 11400000, guid: 5fdbb9840e1ca4743b0ce3e956d0b7f1, type: 2}
+    - {fileID: 11400000, guid: f1e2a0766e6b00741a5ff1aafdee417a, type: 2}
+  - Name: Wave8
+    DelayInSeconds: 2
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: e72b137823b9a484b9d290bbb79282ef, type: 2}
+    - {fileID: 11400000, guid: 732e3c51732448c4098d3ee4571c6851, type: 2}
+    - {fileID: 11400000, guid: ca43e53286dff6249b9f4f9dc339ba33, type: 2}
+    - {fileID: 11400000, guid: 0748be089b2dbe841b872a67560f4665, type: 2}
+    - {fileID: 11400000, guid: cfc9358cd1359a74a81b5b3380520870, type: 2}
+    - {fileID: 11400000, guid: ff26bf360f8438d409f888a4c7e8a78a, type: 2}
+  - Name: Wave9
+    DelayInSeconds: 3
+    IntervalInSeconds: 2
+    FishesInOrder:
+    - {fileID: 11400000, guid: f1e2a0766e6b00741a5ff1aafdee417a, type: 2}
+    - {fileID: 11400000, guid: ca43e53286dff6249b9f4f9dc339ba33, type: 2}
+    - {fileID: 11400000, guid: 5fdbb9840e1ca4743b0ce3e956d0b7f1, type: 2}
+    - {fileID: 11400000, guid: 732e3c51732448c4098d3ee4571c6851, type: 2}
+    - {fileID: 11400000, guid: cfc9358cd1359a74a81b5b3380520870, type: 2}
+    - {fileID: 11400000, guid: e72b137823b9a484b9d290bbb79282ef, type: 2}
+    - {fileID: 11400000, guid: abf9277b9b6db0e4f909f975878d2741, type: 2}
+    - {fileID: 11400000, guid: 0748be089b2dbe841b872a67560f4665, type: 2}
