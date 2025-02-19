@@ -28,8 +28,3 @@
 </li><li><strong>Compete for the highest score</strong> within <strong>2 minutes</strong>
 </li><li><strong>Celebrate victory</strong> (or demand a rematch!)
 </li></ol>
-<h2>📸 Screenshots</h2>
-<p>
-![Tutorial-Readyup-Countdown](https://github.com/user-attachments/assets/fa8f53f2-6baf-4ea0-9822-81a358f510dd)
-
-</p>
