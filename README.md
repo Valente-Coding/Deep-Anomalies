@@ -29,4 +29,7 @@
 </li><li><strong>Celebrate victory</strong> (or demand a rematch!)
 </li></ol>
 <h2>📸 Screenshots</h2>
-<p><em>(Add gameplay screenshots here)</em></p>
+<p>
+<video autoplay loop muted width="640" height="360" src="https://github.com/Valente-Coding/Deep-Anomalies/blob/main/Tutorial-Readyup-Countdown.gif">
+</video>
+</p>
