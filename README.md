@@ -30,6 +30,6 @@
 </li></ol>
 <h2>📸 Screenshots</h2>
 <p>
-<video autoplay loop muted width="640" height="360" src="https://github.com/Valente-Coding/Deep-Anomalies/blob/main/Tutorial-Readyup-Countdown.gif">
-</video>
+![Tutorial-Readyup-Countdown](https://github.com/user-attachments/assets/fa8f53f2-6baf-4ea0-9822-81a358f510dd)
+
 </p>
