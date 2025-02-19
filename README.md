@@ -20,7 +20,8 @@
 </li></ul>
 <h2>🛠️ Tech & Tools</h2>
 <ul><li><strong>Engine</strong>: Unity
-</li><li><strong>Art Style</strong>: Pixel Art&nbsp;(Asprite)</li><li><strong>Languages</strong>: C#</li></ul>
+</li><li><strong>Art Style</strong>: Pixel Art&nbsp;(Asprite)</li><li><strong>Languages</strong>: C#</li>
+<li><strong>Sound Design</strong>: FL Studio</li></ul>
 <h2>🚀 How to Play</h2>
 <ol><li><strong>Go to the game's link</strong> hosted in itch.io&nbsp;(<a href="https://kofkof.itch.io/deep-anomaly">https://kofkof.itch.io/deep-anomaly</a>)
 </li><li><strong>Press play & choose the amount of players&nbsp;</strong>up to 4.&nbsp;</li><li><strong>Move your fishing rod up and down</strong>&nbsp;to catch fish
